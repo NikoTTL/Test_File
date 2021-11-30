@@ -1,5 +1,5 @@
-# Filename: Hello.ps1
+# Filename: Test.ps1
 Write-Host
-Write-Host 'Hello World!'
+Write-Host 'This is just a test!'
 Write-Host
 # end of script
